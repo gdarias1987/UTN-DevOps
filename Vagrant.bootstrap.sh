@@ -1,5 +1,5 @@
 #!/bin/bash
-echo "------- Willi3 -------"
+echo "------- Grupo 2 -------"
 
 ### Aprovisionamiento de software ###
 
